@@ -1,0 +1,10 @@
+{
+  "name": "konnektiv/badgeos-cpt-addon",
+  "description": "This BadgeOS add-on adds triggers for custom post types and comments to the BadgeOS Plugin.",
+  "type": "wordpress-plugin",
+  "license": "AGPL-3.0",
+  "require": {
+    "composer/installers": "~1.0",
+    "php": ">=5.2.4"
+  }
+}
